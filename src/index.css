@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.body {
+  background: url("./dev.jpg");
+  background-size: 100%;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+#resultado {
+  width: 207px;
+  background-color: white;
+  height: 30px;
+  margin: 5px;
+  font-size: 25px;
+  color: black;
+  text-align: right;
+  padding: 5px;
+}
+
+.calculadora {
+  position: absolute;
+  background-color: rgb(0, 0, 0.8);
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 15px;
+  padding: 15px;
+  color: aliceblue;
+}
+
+.botao {
+  width: 50px;
+  height: 50px;
+  font-size: 25px;
+  cursor: pointer;
+  background-color: rgb(31, 31, 31);
+  border: none;
+  color: white;
+  margin: 3px;
+}
+.bnt {
+  width: 100px;
+  height: 50px;
+  font-size: 25px;
+  cursor: pointer;
+  background-color: rgb(31, 31, 31);
+  border: none;
+  color: white;
+  margin: 3px;
+}
+
+.botao:hover {
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Adicione estas regras ao seu arquivo de estilo */
+
+/* Adicione estas regras ao seu arquivo de estilo */
+
+.botao {
+  width: 50px;
+  height: 50px;
+  font-size: 25px;
+  cursor: pointer;
+  background-color: rgb(31, 31, 31);
+  border: none;
+  color: white;
+  margin: 3px;
+}
+
+.botao .botao-0 {
+  width: 106px;
+}
+
+.botao.botao-igual {
+  height: 106px;
+}
+
+.botao.botao-ponto {
+  /* Adicione estilos específicos para o botão "." se necessário */
+}
