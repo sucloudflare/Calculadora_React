@@ -31,7 +31,7 @@ Copiar código
 ```
 npm run dev
 ```
-Acesse ```http://localhost:3000``` para ver a calculadora em ação!
+Acesse ``` http://localhost:5173/ ``` para ver a calculadora em ação!
 
 Estrutura do Projeto
 src/components: Contém os componentes React da aplicação, incluindo Calculator.js.
