@@ -22,7 +22,6 @@ Copiar código
 ```
 cd calculadora-react
 npm install
-
 ```
 Rodando a Aplicação:
 
