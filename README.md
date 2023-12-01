@@ -1,12 +1,5 @@
 typescript
 Copy code
-# Calculadora React com Vite
-
-Bem-vindo(a) à Calculadora desenvolvida usando React e Vite! Esta aplicação simples permite realizar operações matemáticas básicas de forma rápida e intuitiva.
-
-## Configuração do Projeto
-
-É necessário ter o Node.js instalado em sua máquina antes de começar.
 
 ### Clonando o Repositório
 
