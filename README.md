@@ -1,5 +1,4 @@
 
-### Clonando o Repositório
 
 # Calculadora React com Vite (TypeScript e JavaScript)
 
