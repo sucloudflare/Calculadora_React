@@ -10,10 +10,6 @@ Bem-vindo(a) à Calculadora desenvolvida usando React e Vite! Esta aplicação s
 
 ```bash
 git clone https://github.com/sucloudflare/Calculadora_React.git
-
-
-```bash
-git clone https://github.com/sucloudflare/Calculadora_React.git
 cd calculadora-react
 npm install
 npm run dev
