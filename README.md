@@ -26,10 +26,6 @@ Sinta-se à vontade para contribuir para este projeto! Se encontrar bugs ou tive
 Licença
 Este projeto é licenciado sob a Licença MIT, o que significa que você pode usá-lo livremente, inclusive em projetos comerciais.
 
-css
-Copy code
-
-Observe que o TypeScript geralmente é mais útil quando você está escrevendo código, e a documentação normalmente não precisa ser escrita em TypeScript. Eu incluí TypeScript no comentário apenas porque você solicitou.
 
 
 
