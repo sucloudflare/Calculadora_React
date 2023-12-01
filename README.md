@@ -1,6 +1,6 @@
 
 
-# Calculadora React com Vite (TypeScript e JavaScript)
+# Calculadora React com Vite (TypeScript)
 
 Bem-vindo(a) à Calculadora desenvolvida usando React e Vite! Esta aplicação simples permite realizar operações matemáticas básicas de forma rápida e intuitiva.
 
