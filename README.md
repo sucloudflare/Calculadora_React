@@ -21,9 +21,6 @@ src/components: Contém os componentes React da aplicação, incluindo Calculato
 src/styles: Arquivos de estilo para aprimorar a aparência da calculadora.
 src/App.js: O componente principal que renderiza a aplicação (JavaScript).
 
-React: Uma biblioteca JavaScript para construção de interfaces de usuário.
-Vite: Um pacote rápido e flexível para projetos JavaScript modernos.
-Contribuindo
 Sinta-se à vontade para contribuir para este projeto! Se encontrar bugs ou tiver sugestões de melhorias, abra um issue ou envie um pull request.
 
 Licença
