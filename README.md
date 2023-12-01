@@ -1,5 +1,3 @@
-typescript
-Copy code
 
 ### Clonando o Repositório
 
