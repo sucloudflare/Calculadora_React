@@ -1,0 +1,13 @@
+:root {
+   --cor-fundo10: rgba(9,9,121,1);
+   --cor-fundo20: rgba(0,212,255,1);
+
+   --cor-texto: white;
+   --cor-dark: black;
+   --cor-botao: rgb(31, 31, 31);
+   --cor-calculadora: rgb(113, 118, 118);
+
+   --tamanho-fonte: 25px;
+
+   --fonte-padrao: 'Source Code Pro', monospace;
+ }
