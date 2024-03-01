@@ -12,7 +12,7 @@ Bem-vindo(a) à Calculadora desenvolvida usando React e Vite! Esta aplicação s
 git clone https://github.com/sucloudflare/Calculadora_React.git
 cd calculadora-react
 npm install
-npm run dev
+npm start
 ```
 Acesse http://localhost:5173/ para ver a calculadora em ação!
 
