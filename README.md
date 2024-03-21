@@ -6,7 +6,7 @@
 
    <h3>Clonar o Repositório e Instalar Dependências</h3>
     <pre>
-        <code>git clone https://github.com/seuusuario/Calculadora_React.git
+    <code>git clone https://github.com/sucloudflare/Calculadora_React.git
 cd Calculadora_React
 npm install</code>
     </pre>
