@@ -1,0 +1,87 @@
+.calculator {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 40px; /* Corrigido: adicionado apenas uma propriedade border-radius */
+    margin: 0 auto;
+    padding: 10px;
+    background-color: rgb(8, 8, 8);
+    padding-top: 80px;
+    padding-bottom: 37px;
+    margin-top: 10vh;
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(https://wallpapers.com/images/high/angled-calculus-math-equations-zcadykjv1mqw68t9.webp);
+    font-family: 'Lilita One';
+    background-size: 100%;
+  }
+  
+  .display {
+    font-size: 24px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: right;
+  }
+  
+  .buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 5px;
+    padding: 10px;
+  }
+  
+  button {
+    font-size: 20px;
+    padding: 20px;
+    border: none;
+    border-radius: 100%;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    background-color: #a7a7a7; /* Cor padrão cinza */
+    color: #000000;
+  }
+  
+  button:hover {
+    background-color: #413f3f; /* Cinza mais escuro ao passar o mouse */
+  }
+  
+  button:active {
+    background-color: #666; /* Cinza ainda mais escuro ao clicar */
+  }
+  
+  button.operator {
+    background-color: #d48207;
+    color: white;
+  }
+  
+  button.operator:hover {
+    background-color: #ffbb33;
+  }
+  
+  button.clear {
+    background-color: #ff3333;
+    color: white;
+  }
+  
+  button.clear:hover {
+    background-color: #ff6666;
+  }
+  
+  .orange-button {
+    background-color: #ff9900; /* Cor laranja */
+  }
+  
+  .orange-button:hover {
+    background-color: #ffbb33; /* Laranja mais claro ao passar o mouse */
+  }
+  
+  .orange-button:active {
+    background-color: #cc7700; /* Laranja mais escuro ao clicar */
+  }
+  
